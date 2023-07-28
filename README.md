@@ -33,4 +33,4 @@ If you are someone we used as a source and you would like us to pull correlating
 and we will get those to you as soon as possible.  The same thing applies to anyone with questions or comments, we are only an email away.
 
 
-The Unix Media Collective is a subsidiary of the Unix Hideout Organization.
+The UnixHideout Media Collective is a subsidiary of the Unix Hideout Organization.
