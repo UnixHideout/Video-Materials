@@ -1,6 +1,6 @@
 # Video-Materials
 
-Hello Internet.  This is a repositories of all of the video materials we use throughout the videos.  For transparency reasons this repository will always be public and it's files always
+Hello Internet.  This is a repository of all of the video materials we use throughout the videos.  For transparency reasons this repository will always be public and it's files always
 licensed with Creative Commons Attributions 4.0 International (CC Attr. 4.0 Int.) unless another Creative Commons license is stated. 
 
 # Contents
